@@ -1131,20 +1131,20 @@ windowdragbox {
 	inset 0 -3px 0 #0e0e0e ,
     inset 0 -4px rgba(255,255,255, 0.04)
     !important;
-    color: #cdcdcd !important;
+    color: #f8f8f8 !important;
     text-shadow: 0px -1px 0px rgba(0,0,0,.16) !important;
 }
 
 .tabbrowser-tab,
 .tabs-newtab-button {
-  color: #7b7b7b !important;
+  color: #cdcdcd !important;
     text-shadow: 0px -1px 0px rgba(0,0,0,.16) !important;
 }
 
 
 .tabbrowser-tab:hover,
 .tabs-newtab-button:hover {
-  color: #cdcdcd !important;
+  color: #f8f8f8 !important;
     text-shadow: 0px -1px 0px rgba(0,0,0,.16) !important;
 }
 /*
