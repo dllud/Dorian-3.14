@@ -654,7 +654,7 @@ textbox[focused="true"] .spinbuttons-down {
   padding: 0 6px 0 6px !important;
 }
 
-#quick-filter-bar-main-bar toolbarbutton {
+#quick-filter-bar toolbarbutton {
   -moz-appearance: none !important;
   -moz-margin-start: 0px!important;
   -moz-margin-end: 0px!important;
@@ -667,7 +667,7 @@ textbox[focused="true"] .spinbuttons-down {
 }
 
 #quick-filter-bar #qfb-sticky,
-#quick-filter-bar-main-bar toolbarbutton {
+#quick-filter-bar toolbarbutton {
   -moz-appearance: none !important;
   background: -moz-linear-gradient(rgba(255,255,255, 0.03),rgba(255,255,255, 0.02) 49%, rgba(255,255,255, 0.0) 50%, rgba(255,255,255, 0.0))#121212 !important;
   border-radius: 0px!important;
@@ -687,12 +687,12 @@ textbox[focused="true"] .spinbuttons-down {
   box-shadow: 0px 1px rgba(255,255,255,0.06) inset, 0pt 1px 0pt rgba(255, 255, 255, 0.06)!important;
 	}
 
-#quick-filter-bar-main-bar toolbarbutton:first-child {
+#quick-filter-bar toolbarbutton:first-child {
 	 border-radius: 3px 0px 0px 3px!important;
 	 box-shadow: 0px 1px rgba(255,255,255,0.06) inset, 0pt 1px 0pt rgba(255, 255, 255, 0.06)!important;
 	 }
 
-#quick-filter-bar-main-bar toolbarbutton:last-child {
+#quick-filter-bar toolbarbutton:last-child {
 	 border-right-width: 1px!important;
 	 border-left-width: 1px!important;
 	 border-radius: 0px 3px 3px 0px!important;
@@ -700,23 +700,23 @@ textbox[focused="true"] .spinbuttons-down {
 	 }
 
 #quick-filter-bar #qfb-sticky:hover,
-#quick-filter-bar-main-bar toolbarbutton:hover {
+#quick-filter-bar toolbarbutton:hover {
   background: -moz-linear-gradient(rgba(255,255,255, 0.04),rgba(255,255,255, 0.03) 49%, rgba(255,255,255, 0.01) 50%, rgba(255,255,255, 0.01))#2a2a2a !important;
   box-shadow:  1px 1px 1px rgba(255, 255, 255, 0.06) inset, 0pt 1px 0pt rgba(255, 255, 255, 0.06)!important;
   }
 
-#quick-filter-bar-main-bar toolbarbutton:last-child:hover {
+#quick-filter-bar toolbarbutton:last-child:hover {
 	 box-shadow:  1px 1px 1px rgba(255, 255, 255, 0.06) inset, 0pt 1px 0pt rgba(255, 255, 255, 0.06)!important;}
 
 #quick-filter-bar #qfb-sticky[checked],
-#quick-filter-bar-main-bar toolbarbutton[checked="true"] {
+#quick-filter-bar toolbarbutton[checked="true"] {
   border-color: #080808!important;
   background: -moz-linear-gradient(rgba(0,0,0, 0.06),rgba(0,0,0, 0.06))#0b0b0b !important;
   box-shadow:  0px 1px 3px rgba(0, 0, 0, 0.12) inset, 0pt 1px 0pt rgba(255, 255, 255, 0.09)!important;
   }
 
-#quick-filter-bar-main-bar toolbarbutton[checked="true"]:last-child,
- #quick-filter-bar-main-bar toolbarbutton[checked="true"]:last-child:hover {
+#quick-filter-bar toolbarbutton[checked="true"]:last-child,
+ #quick-filter-bar toolbarbutton[checked="true"]:last-child:hover {
 
 	 }
 	 
