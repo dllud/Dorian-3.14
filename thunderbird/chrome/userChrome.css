@@ -1134,7 +1134,7 @@ tooltip {
 }
 
 /****************************** Enigmail ******************************/
-/*.enigmailHeaderName {
+.enigmailHeaderName {
   color: #2c2c2c !important;
   text-align: right;
   background-color: transparent;
@@ -1224,7 +1224,7 @@ tooltip {
 .enigmailUidInactive,
 treechildren::-moz-tree-cell-text(enigKeyInactive) {
   color: #676f74 !important;
-}*/
+}
 
 /***************************** MultiMessage ***************************/
 @-moz-document url(chrome://messenger/content/multimessageview.xhtml) {
