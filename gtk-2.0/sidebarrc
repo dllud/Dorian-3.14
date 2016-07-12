@@ -12,9 +12,9 @@ style "sidebar"
 	GtkTreeView	:: vertical_separator = 2 #Padding between each place
 	GtkTreeView	:: image-spacing = 6
 	
-	GtkTreeView	:: even-row-color = "#616161" #This is the color for the sidebar
+	GtkTreeView	:: even-row-color = "#2A2A2A" #This is the color for the sidebar
 		
-	base[NORMAL]		=  "#616161"
+	base[NORMAL]		=  "#2A2A2A"
         bg[SELECTED]            =  "#154478"		
 }
 

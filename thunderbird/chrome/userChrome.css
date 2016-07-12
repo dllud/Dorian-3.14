@@ -904,14 +904,14 @@ treecols #AccountCol {
 
 #folderTree treechildren,
 #accounttree treechildren {
-  background:#616161!important;
+  background:#2A2A2A!important;
 background-size: 6px, auto !important
 }
 
 #folderTree treechildren:not(.autocomplete-treebody)::-moz-tree-row,
 #accounttree treechildren:not(.autocomplete-treebody)::-moz-tree-row {
   -moz-appearance: none !important;
-  background:#616161 !important;
+  background:#2A2A2A !important;
   border:none!important;
   background-size: 6px, auto !important
 }
