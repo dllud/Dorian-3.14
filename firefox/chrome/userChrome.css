@@ -278,6 +278,9 @@ toolbar textbox[focused="true"] {
 }
 */
 
+#PopupAutoCompleteRichResult .ac-url-text {
+  color: #0095DD !important;
+}
 
 /* combined go/reload/stop button in location bar */
 /*
