@@ -449,7 +449,7 @@ border-image: url("images/entry.svg") 3 3 4 3 / 3px 3px 4px 3px stretch !importa
                                       rgba(0,0,0,0.0)
                                       ), -moz-linear-gradient( #121212, #121212)!important;
 	box-shadow: box-shadow: inset 0 3px rgba(0, 0, 0, 0.02), inset 0 2px rgba(0, 0, 0, 0.03), inset 0 1px rgba(0, 0, 0, 0.08), inset 0 0 0 1px rgba(74, 144, 217, 0);!important;
-	color: #555555 !important;
+	color: #FFFFFF !important;
 }
 
 textbox,
@@ -467,7 +467,7 @@ border-image: url("images/entry.svg") 3 3 4 3 / 3px 3px 4px 3px stretch!importan
                                       rgba(0,0,0,0.0)
                                       ), -moz-linear-gradient( #121212, #121212)!important;
 	box-shadow: box-shadow: inset 0 3px rgba(0, 0, 0, 0.02), inset 0 2px rgba(0, 0, 0, 0.03), inset 0 1px rgba(0, 0, 0, 0.08), inset 0 0 0 1px rgba(74, 144, 217, 0);!important;
-	color: #555555 !important;
+	color: #C5C5C5 !important;
 }
 
 
@@ -551,7 +551,7 @@ border-image: url("images/entry-focus.svg") 3 3 4 3 / 3px 3px 4px 3px stretch!im
                                       rgba(0,0,0,0.0)
                                       ), -moz-linear-gradient( #373737, #373737)!important;
 	box-shadow: inset 0 3px rgba(0, 0, 0, 0.02), inset 0 2px rgba(0, 0, 0, 0.03), inset 0 1px rgba(0, 0, 0, 0.08), inset 0 0 0 1px rgba(74, 144, 217, 0.15) ;!important;
-	color: #727272 !important;
+	color: #FFFFFF !important;
 }
 
 textbox[focused="true"],
@@ -709,9 +709,10 @@ textbox[focused="true"] .spinbuttons-down {
 	 box-shadow:  1px 1px 1px rgba(255, 255, 255, 0.06) inset, 0pt 1px 0pt rgba(255, 255, 255, 0.06)!important;}
 
 #quick-filter-bar #qfb-sticky[checked],
-#quick-filter-bar toolbarbutton[checked="true"] {
+#quick-filter-bar toolbarbutton[checked] {
   border-color: #080808!important;
-  background: -moz-linear-gradient(rgba(0,0,0, 0.06),rgba(0,0,0, 0.06))#0b0b0b !important;
+  /*background: -moz-linear-gradient(rgba(0,0,0, 0.06),rgba(0,0,0, 0.06))#0b0b0b !important;*/
+  background: #616161 !important;
   box-shadow:  0px 1px 3px rgba(0, 0, 0, 0.12) inset, 0pt 1px 0pt rgba(255, 255, 255, 0.09)!important;
   }
 
@@ -956,11 +957,11 @@ box-shadow: 1px 1px 3px rgba(0,0,0,0.35) inset !important;
 }
 
 .attachmentcell-name {
-	color: #0a0a0a !important;
+	color: #C3C3C3 !important;
 }
 
 .attachmentcell-size {
-	color: #3a3a3a !important;
+	color: #6F706C !important;
 }
 
 #attachmentSaveAllMultiple .toolbarbutton-menubutton-dropmarker {
@@ -1049,10 +1050,10 @@ border-left: 1px solid rgba(0,0,0,0.65) !important;
 
 attachmentlist .box-inherit {
   border: 1px solid #1c1c1c !important;
-  }
+}
 
 #sidebar-box {
-border-top: 0px solid rgba(0,0,0,0.65) !important;
+  border-top: 0px solid rgba(0,0,0,0.65) !important;
 }
 
 /*************************** Dropmarker *******************************/
