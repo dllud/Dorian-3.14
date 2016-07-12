@@ -45,7 +45,7 @@ Drag and drop `dorian-chromium.crx` onto Chromium browser and choose to apply th
 
 ### Ubuntu
 1. Open `Dorian-3.14/gtk3.0/gtk-contained.css`
-2. Scroll down to the bottom of the document and uncomment `unity.css` and `ubuntu_styles.css`.
+2. Scroll down to the bottom of the document and check that `unity.css` and `ubuntu_styles.css` are uncomment.
 3. Use Unity Tweak Tool to choose Dorian theme.
 
 ### Ubuntu Software Center
