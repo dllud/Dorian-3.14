@@ -1,6 +1,8 @@
 # Dorian 3.14
 Dorian is a full-featured deep dark theme for GTK+ 3.14 by [killhellokitty](http://killhellokitty.deviantart.com/).
 
+[![Dorian screenshot](https://github.com/dllud/Dorian-3.14/raw/master/screenshots/dorian-screenshot-small.png)](https://github.com/dllud/Dorian-3.14/raw/master/screenshots/dorian-screenshot.png)
+
 It is my theme of choice for distros with GTK+ 3.14 up to 3.18 (e.g. Debian jessie, Ubuntu 15.10 and 16.04). Subsequent themes by killhellokitty such as [Dorian Flat 3.16](http://killhellokitty.deviantart.com/art/Dorian-Flat-3-16-revision-5-537693271) and [DeLorean Dark 3.18](http://killhellokitty.deviantart.com/art/DeLorean-Dark-3-18-15-01242015-569072551) are a bit more light coloured, which makes them less suitable for long hours at the screen. However, if you already run GTK+ 3.20, you should ditch Dorian and use [Cloak 3.20](http://killhellokitty.deviantart.com/art/Cloak-3-20-6-05052016-603341133) or the darker-and-darkest variant of [Candra 3.20](http://killhellokitty.deviantart.com/art/Candra-Themes-3-20-2-05102016-607878370).
 
 On this repo I publish some small tweaks I made to Dorian. You can check the modifications list (changelog) by looking at [Git commits](https://github.com/dllud/Dorian-3.14/commits/master).
