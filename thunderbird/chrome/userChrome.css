@@ -2035,11 +2035,6 @@ calendar-day-label[orient="vertical"][relation="today1day"] {
   }
 /** end box shadows **/
 
-calendar-month-day-box calendar-month-day-box-item[allday="true"] .calendar-color-box {
-    border-color: #f2f2f2 !important;
-    -moz-box-shadow: inset -1px -1px 0 rgba(255, 255, 255, 0.7), inset 1px 1px 0 rgba(255, 255, 255, 0.7);
-}
-
 .labeldaybox-container {
     border-right: 1px solid #202020 !important;
     border-top: 1px solid #202020 !important;
@@ -2071,19 +2066,15 @@ menulist > menupopup timepicker-grids grid > vbox > grid,
 calendar-month-day-box-item .calendar-color-box,
 calendar-event-box .calendar-color-box,
 calendar-editable-item .calendar-color-box {
-    color: #cbcbcb !important;
-    text-shadow: 0px -1px 0px rgba(0,0,0,0.45) !important;
-    background: #076BB6 !important;
-    box-shadow: 1px 1px 1px rgba(0,0,0,0.45) !important;
+    color: #e5e5e5 !important;
+    box-shadow: none !important;
 }
 
 calendar-month-day-box-item[selected="true"] .calendar-color-box,
 calendar-event-box[selected="true"] .calendar-color-box,
 calendar-editable-item[selected="true"] .calendar-color-box {
-    color: #ffffff !important;
-    text-shadow: 0px 1px 1px rgba(0,0,0,0.85) !important;
-    background-color: #0a96ff !important;
-    box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.45)!important;
+    color: #1e1e1e !important;
+    box-shadow: none !important;
 }
 
 .tooltipHeaderLabel {
